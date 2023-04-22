@@ -1,1 +1,2 @@
-message: Hello from ServiceA
+greeting: Hello from ServiceA
+msg:Hi there
